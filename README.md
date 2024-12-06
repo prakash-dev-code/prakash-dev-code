@@ -5,9 +5,7 @@
 <h1 align="center">Hey Programmers 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/channel/your-channel/"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube"></a>
-  <a href="https://twitter.com/your-profile/"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/prakash-sahu-bb7069240/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ---
