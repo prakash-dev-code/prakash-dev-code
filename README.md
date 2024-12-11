@@ -47,11 +47,10 @@
 
 
 
-<p align="center">
+<p>
 <img src="https://streak-stats.demolab.com?user=prakash-dev-code&theme=dark&hide_border=true" alt="GitHub Streak" />
- <img height="200" width="450" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaqdeff&show_icons=true&theme=gruvbox" alt="Shaq's GitHub Stats"/>
-  <img height="200" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqdeff&theme=gruvbox&layout=compact"/>
-
+<img   src="https://github-readme-stats-eight-theta.vercel.app/api?username=prakash-dev-code&show_icons=true&theme=gruvbox" alt="Shaq's GitHub Stats"/>
+<img height="200" width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-dev-code&theme=gruvbox&layout=compact"/>
 </p>
 
 ---
