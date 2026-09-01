@@ -9,12 +9,6 @@
 <p>
   <a href="https://prakash-sahu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/prakash-sahu-bb7069240/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@TheCodeLabCoding"><img src="https://img.shields.io/badge/YouTube-The%20Code%20Lab-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube" /></a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=prakash-dev-code&amp;label=Profile%20views&amp;color=0ea5e9&amp;style=flat-square" alt="Profile views" />
-  <a href="https://github.com/prakash-dev-code?tab=followers"><img src="https://img.shields.io/github/followers/prakash-dev-code?label=Followers&amp;style=flat-square&amp;color=22c55e" alt="GitHub followers" /></a>
 </p>
 
 </div>
@@ -35,64 +29,92 @@ const prakash = {
 - 💬 Ask me about **React, Node.js, REST APIs, databases, AWS, and Docker**.
 - 🤝 I am open to collaborating on meaningful full-stack projects.
 
-## 🧰 Technology Toolbox
+## 🧰 Technical Architecture
 
 <table>
 <tr>
-<td align="center"><strong>Languages &amp; Core</strong></td>
+<td align="center"><strong>Languages</strong></td>
 <td>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=fff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=fff" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&amp;logo=css&amp;logoColor=fff" alt="CSS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=fff" alt="Python" />
 </td>
 </tr>
 <tr>
-<td align="center"><strong>Frontend</strong></td>
+<td align="center"><strong>Frontend &amp; Mobile</strong></td>
 <td>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=fff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&amp;logo=reactrouter&amp;logoColor=fff" alt="React Router" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&amp;logo=reactquery&amp;logoColor=fff" alt="React Query" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&amp;logo=mui&amp;logoColor=fff" alt="Material UI" />
-  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&amp;logo=chakraui&amp;logoColor=fff" alt="Chakra UI" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=fff" alt="Vite" />
   <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&amp;logo=antdesign&amp;logoColor=fff" alt="Ant Design" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&amp;logo=chartdotjs&amp;logoColor=fff" alt="Chart.js" />
 </td>
 </tr>
 <tr>
-<td align="center"><strong>Backend &amp; APIs</strong></td>
+<td align="center"><strong>Backend</strong></td>
 <td>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=fff" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=express&amp;logoColor=fff" alt="Express.js" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&amp;logo=graphql&amp;logoColor=fff" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&amp;logo=socketdotio&amp;logoColor=fff" alt="Socket.IO" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=fff" alt="JSON Web Tokens" />
-  <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&amp;logo=ejs&amp;logoColor=000" alt="EJS" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&amp;logo=nestjs&amp;logoColor=fff" alt="NestJS" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=fff" alt="FastAPI" />
 </td>
 </tr>
 <tr>
-<td align="center"><strong>Data &amp; Cloud</strong></td>
+<td align="center"><strong>Databases &amp; Cache</strong></td>
 <td>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=fff" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=fff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=fff" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=fff" alt="MySQL" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&amp;logo=amazondynamodb&amp;logoColor=fff" alt="Amazon DynamoDB" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&amp;logo=redis&amp;logoColor=fff" alt="Redis" />
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Cloud &amp; DevOps</strong></td>
+<td>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=FF9900" alt="Amazon Web Services" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=fff" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=fff" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&amp;logo=nginx&amp;logoColor=fff" alt="Nginx" />
+  <img src="https://img.shields.io/badge/AWS_SAM-FF9900?style=flat-square" alt="AWS SAM" />
+  <img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=flat-square" alt="AWS CDK" />
 </td>
 </tr>
 <tr>
-<td align="center"><strong>Tools</strong></td>
+<td align="center"><strong>ORM &amp; APIs</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&amp;logo=prisma&amp;logoColor=fff" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&amp;logo=sequelize&amp;logoColor=fff" alt="Sequelize" />
+  <img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&amp;logo=graphql&amp;logoColor=fff" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&amp;logo=socketdotio&amp;logoColor=fff" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square" alt="gRPC" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=fff" alt="JSON Web Tokens" />
+</td>
+</tr>
+<tr>
+<td align="center"><strong>AI &amp; ML</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=FF9900" alt="Amazon Bedrock" />
+  <img src="https://img.shields.io/badge/XGBoost-EB5B28?style=flat-square" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/LLM_Integration-7C3AED?style=flat-square" alt="Large language model integration" />
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Platforms &amp; Tools</strong></td>
 <td>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=fff" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=fff" alt="GitHub" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&amp;logo=npm&amp;logoColor=fff" alt="npm" />
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&amp;logo=nodemon&amp;logoColor=fff" alt="Nodemon" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=fff" alt="Postman" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&amp;logo=firebase&amp;logoColor=fff" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=fff" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;logo=cloudflare&amp;logoColor=fff" alt="Cloudflare" />
 </td>
 </tr>
 </table>
 
-## 📊 GitHub Snapshot
+> **AWS:** EC2, ECS, Lambda, S3, RDS, IAM, Route 53, ALB, SQS, Amazon Bedrock, Docker, CI/CD, Nginx, SAM, and CDK.
+
+##  GitHub Snapshot
 
 <div align="center">
 
